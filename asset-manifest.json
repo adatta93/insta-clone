@@ -3,8 +3,8 @@
     "static/js/0.5505daf6.chunk.js": "/insta-clone/static/js/0.5505daf6.chunk.js",
     "static/js/0.5505daf6.chunk.js.map": "/insta-clone/static/js/0.5505daf6.chunk.js.map",
     "main.css": "/insta-clone/static/css/main.021078fc.chunk.css",
-    "main.js": "/insta-clone/static/js/main.efe74dbd.chunk.js",
-    "main.js.map": "/insta-clone/static/js/main.efe74dbd.chunk.js.map",
+    "main.js": "/insta-clone/static/js/main.adb14806.chunk.js",
+    "main.js.map": "/insta-clone/static/js/main.adb14806.chunk.js.map",
     "runtime-main.js": "/insta-clone/static/js/runtime-main.160da096.js",
     "runtime-main.js.map": "/insta-clone/static/js/runtime-main.160da096.js.map",
     "static/js/3.c66470ee.chunk.js": "/insta-clone/static/js/3.c66470ee.chunk.js",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.160da096.js",
     "static/js/3.c66470ee.chunk.js",
     "static/css/main.021078fc.chunk.css",
-    "static/js/main.efe74dbd.chunk.js"
+    "static/js/main.adb14806.chunk.js"
   ]
 }
