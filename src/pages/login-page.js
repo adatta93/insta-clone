@@ -32,16 +32,17 @@ export default function Login() {
   return (
     <div className="container flex items-center max-w-screen-md mx-auto mt-8 h-screen">
       <div className="flex w-3/5">
-        <img src="/images/iphone-with-profile.jpg" alt="IPhone Login" />
+        <img src="./images/iphone-with-profile.jpg" alt="IPhone Login" />
       </div>
       <div className="flex flex-col">
         <div className="flex flex-col items-center p-4 border border-gray-primary rounded mb-4">
           <h1 className="flex justify-center w-full">
-            <img
-              src="/images/logo.png"
+			Insta Clone
+            {/* <img
+              src="./images/logo.png"
               alt="Insta"
               className="w-6/12 mt-2 mb-4"
-            />
+            /> */}
           </h1>
           {error && <p className="mb-4 text-xs text-red-primary">{error}</p>}
           <form onSubmit={handleLogin}>

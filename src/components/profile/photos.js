@@ -9,7 +9,7 @@ export default function Photos({ photos }) {
         ) : photos.length > 0 ? (
           photos.map((photo) => (
             <div key={photo.docId} className="relative group">
-              <img src={photo.imageSrc} alt={photo.caption} />
+              <img src={`.${photo.imageSrc}`} alt={photo.caption} />
               <div className="hidden absolute bottom-0 left-0 z-10 w-full h-full justify-evenly items-center bg-black-faded group-hover:flex">
                 <p className="flex item-center text-white font-bold">
                   <svg

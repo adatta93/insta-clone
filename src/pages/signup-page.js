@@ -61,11 +61,12 @@ export default function SignUp() {
       <div className="flex flex-col w-6/12 mx-auto">
         <div className="flex flex-col items-center p-4 border border-gray-primary rounded mb-4">
           <h1 className="flex justify-center w-full">
-            <img
-              src="/images/logo.png"
+			Insta Clone
+            {/* <img
+              src="./images/logo.png"
               alt="Insta"
               className="w-6/12 mt-2 mb-4"
-            />
+            /> */}
           </h1>
           {error && <p className="mb-4 text-xs text-red-primary">{error}</p>}
           <form onSubmit={handleSignUp}>
